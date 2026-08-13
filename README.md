@@ -1,8 +1,7 @@
 # 🔐 Security Write-ups
-
-A collection of my hands-on security work, split into two categories:
-
+A collection of my hands-on security work, split into three categories:
 - **[`CTFs/`](./CTFs)** — Offensive security exercises: enumeration, exploitation, privilege escalation, and post-exploitation analysis on intentionally vulnerable machines (HackMyVM, VulnHub).
+- **[`Sherlocks/`](./Sherlocks)** — Hack The Box Sherlocks: defensive/DFIR challenges focused on log analysis, incident triage, and threat hunting.
 - **[`Forensic-Analysis/`](./Forensic-Analysis)** — Digital forensics and incident response reports (PDF): evidence handling, chain of custody, timeline reconstruction, and root cause analysis.
 
 Each report follows a consistent structure so findings are easy to compare and evidence-based conclusions are clearly separated from analysis.
@@ -10,7 +9,6 @@ Each report follows a consistent structure so findings are easy to compare and e
 ---
 
 ## 🚩 CTFs
-
 | Platform | Machine | Write-up |
 |---|---|---|
 | HackMyVM | Soc1 | [CTFSOC1(HMVM).pdf](./CTFs/HackMyVm/CTFSOC1(HMVM).pdf) |
@@ -18,8 +16,12 @@ Each report follows a consistent structure so findings are easy to compare and e
 | HackMyVM | Hunter | [CTFHunter (HMVM).pdf](<./CTFs/HackMyVm/CTFHunter (HMVM).pdf>) |
 | VulnHub | LazySysAdmin | [CTFLazySysAdmin(VulnHub).pdf](./CTFs/VulnHub/CTFLazySysAdmin(VulnHub).pdf) |
 
-## 🕵️ Forensic Analysis
+## 🕵️‍♂️ Sherlocks (HTB)
+| Category | Sherlock | Write-up |
+|---|---|---|
+| DFIR | WhaleSecret | [WhaleSecret(mid).pdf](<./Sherlocks/WhaleSecret(mid).pdf>) |
 
+## 🕵️ Forensic Analysis
 | Case | Report |
 |---|---|
 | CF-2025-001 | [Peritaje Forense CF-2025-001.pdf](<./Forensic-Analysis/Peritaje Forense CF-2025-001.pdf>) |
@@ -32,5 +34,4 @@ Each report follows a consistent structure so findings are easy to compare and e
 ---
 
 ## ⚠️ Note on Confidentiality
-
 All content in this repository is based on lab exercises, CTF platforms, or synthetic/anonymized scenarios. No real client, employer, or production data, logs, or identifiable information is included in any report.
