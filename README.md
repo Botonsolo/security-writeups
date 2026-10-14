@@ -3,7 +3,7 @@ A collection of my hands-on security work, split into three categories:
 - **[`CTFs/`](./CTFs)** — Offensive security exercises: enumeration, exploitation, privilege escalation, and post-exploitation analysis on intentionally vulnerable machines (HackMyVM, VulnHub).
 - **[`Sherlocks/`](./Sherlocks)** — Hack The Box Sherlocks: defensive/DFIR challenges focused on log analysis, incident triage, and threat hunting.
 - **[`Forensic-Analysis/`](./Forensic-Analysis)** — Digital forensics and incident response reports (PDF): evidence handling, chain of custody, timeline reconstruction, and root cause analysis.
-- - **[`Forensic-Analysis/`](./Tips)** — A series of tips and advices that have helped me with my researches.
+- **[`Tips/`](./Tips)** — A series of tips and advices that have helped me with my researches.
 
 Each report follows a consistent structure so findings are easy to compare and evidence-based conclusions are clearly separated from analysis.
 
